@@ -11,7 +11,7 @@ public class DBUtil {
 	static String database = "doc";
 	static String encoding = "UTF-8";
 	static String loginName = "root";
-	static String password = "7319488453622l";
+	static String password = "admin123456";
 
 	static {
 		try {
